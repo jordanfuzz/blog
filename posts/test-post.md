@@ -23,7 +23,7 @@ Steps to conquer England:
 
 Heck, check out my `java.script()` y'know?
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/50d21d4a03cbb4410cc7db69c6c1311355299c65/photos/neopets-cards.jpg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/neopets-cards.jpg)
 
 Bilge rat transom spike schooner Letter of Marque plunder dance the hempen jig spanker Jolly Roger barque. Weigh anchor coxswain lookout transom crimp wench lugsail pink strike colors gunwalls. Matey broadside barkadeer prow squiffy Jack Tar Jack Ketch Letter of Marque bowsprit careen.
 
