@@ -29,6 +29,9 @@ const ogImageURL = ogImage ? new URL(ogImage, Astro.site).href : undefined;
     <meta property="og:url" content={canonicalURL.href} />
     {ogImageURL && <meta property="og:image" content={ogImageURL} />}
 
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
     <link rel="canonical" href={canonicalURL.href} />
     <link rel="alternate" type="application/rss+xml" title="Jordan's Blog" href="/rss.xml" />
     <link rel="icon" type="image/png" href="/favicon.png" />

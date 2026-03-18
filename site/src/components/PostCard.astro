@@ -15,7 +15,9 @@ const formatted = post.data.date.toLocaleDateString('en-US', {
 ---
 
 <article class="post-card">
-  <h2><a href={`/posts/${post.id}`}>{post.data.title}</a></h2>
-  <time datetime={post.data.date.toISOString()}>{formatted}</time>
+  <div class="post-card-header">
+    <h2><a href={`/posts/${post.id}`}>{post.data.title}</a></h2>
+    <time datetime={post.data.date.toISOString()}>{formatted}</time>
+  </div>
   {post.data.description && <p>{post.data.description}</p>}
 </article>
