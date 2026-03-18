@@ -21,8 +21,8 @@ const formatted = post.data.date.toLocaleDateString('en-US', {
 });
 ---
 
-<article class="post-card">
-  <a href={`/posts/${post.id}`} class="post-card-thumb">
+<a href={`/posts/${post.id}`} class="post-card">
+  <div class="post-card-thumb">
     {photoUrl
       ? <img src={photoUrl} alt="" aria-hidden="true" />
       : <div class="post-card-thumb-placeholder">
@@ -31,12 +31,12 @@ const formatted = post.data.date.toLocaleDateString('en-US', {
           </svg>
         </div>
     }
-  </a>
+  </div>
   <div class="post-card-body">
     <div class="post-card-header">
-      <h2><a href={`/posts/${post.id}`}>{post.data.title}</a></h2>
+      <h2>{post.data.title}</h2>
       <time datetime={post.data.date.toISOString()}>{formatted}</time>
     </div>
     {post.data.description && <p>{post.data.description}</p>}
   </div>
-</article>
+</a>
