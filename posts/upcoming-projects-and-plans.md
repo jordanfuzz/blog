@@ -2,6 +2,7 @@
 title: "Upcoming Projects and Plans"
 date: 2024-02-14
 description: null
+photo: thumbnails/sephiroths-greatest-crime-thumb.png
 draft: false
 ---
 

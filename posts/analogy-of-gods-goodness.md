@@ -2,6 +2,7 @@
 title: "An Analogy of God's Goodness"
 date: 2024-07-17
 description: null
+photo: thumbnails/melonheart-thumb.png
 draft: false
 ---
 

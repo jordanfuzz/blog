@@ -2,6 +2,7 @@
 title: "Copenhagen"
 date: 2023-12-13
 description: "Part 1 of my 2023 Europe stay."
+photo: thumbnails/copenhagen-bookstore-thumb.jpg
 draft: false
 ---
 

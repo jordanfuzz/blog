@@ -2,6 +2,7 @@
 title: "Joensuu and Helsinki"
 date: 2024-02-02
 description: "Europe 2023 part 2."
+photo: thumbnails/joensuu-sign-thumb.jpg
 draft: false
 ---
 
