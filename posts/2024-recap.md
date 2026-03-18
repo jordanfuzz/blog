@@ -1,3 +1,10 @@
+---
+title: "2024 Recap"
+date: 2025-01-02
+description: "Looking back over the year."
+draft: false
+---
+
 Happy New Year! This is going to be a long one, TL;DR at the end!
 
 Okay, a whole bunch of stuff happened this year, let's start with the eclipse!

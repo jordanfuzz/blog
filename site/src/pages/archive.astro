@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const byYear = sorted.reduce<Record<number, typeof sorted>>((acc, post) => {
+  const year = post.data.date.getFullYear();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+---
+
+<BaseLayout title="Archive — Jordan's Blog" description="All posts, sorted by year.">
+  <h1 class="page-title">Archive</h1>
+
+  {years.map(year => (
+    <section>
+      <h2 class="archive-year">{year}</h2>
+      {byYear[year].map(post => <PostCard post={post} />)}
+    </section>
+  ))}
+</BaseLayout>

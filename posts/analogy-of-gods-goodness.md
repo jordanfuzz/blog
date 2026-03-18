@@ -1,3 +1,10 @@
+---
+title: "An Analogy of God's Goodness"
+date: 2024-07-17
+description: null
+draft: false
+---
+
 Hello again, I've had a lot going on with a hospital stay and being laid off at work, so I'll probably post something with more details soon, but in the meantime I wanted to share something brief.
 
 Earlier today I came across a [thread](https://forum.melonland.net/index.php?topic=3101.15) on the [MelonLand Forum](https://forum.melonland.net/) (a nice little web-revival forum) and I ended up sharing something that had been on my mind a little bit recently. The thread was about hope, but recent posts had questioned how you can believe in a good God if there's so many horrible things happening.

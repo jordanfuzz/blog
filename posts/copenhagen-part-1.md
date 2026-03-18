@@ -1,3 +1,10 @@
+---
+title: "Copenhagen"
+date: 2023-12-13
+description: "Part 1 of my 2023 Europe stay."
+draft: false
+---
+
 A short one.
 
 My wife is currently living here in Denmark on a year-long work program. My work allows me to work here on visits, but I'm primarily living in the states during this time. I arrived last Friday for my first visit. Not my first time in Europe, but it is my first time in Denmark.

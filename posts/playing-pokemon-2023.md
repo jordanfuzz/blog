@@ -1,3 +1,10 @@
+---
+title: "Playing Pokémon in 2023"
+date: 2023-11-02
+description: null
+draft: false
+---
+
 Kind of funny that my first actual blog post is about Pokémon, but that's what's on my mind so here it is.
 
 I've been playing Pokémon for more than 20 years at this point, but with the current state of the franchise, it's been a _looong_ time since I've had this much fun with it. I recently started playing again starting with Yellow, and it's not just the nostalgia; **those games are good.**

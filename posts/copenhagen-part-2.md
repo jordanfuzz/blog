@@ -1,3 +1,10 @@
+---
+title: "Joensuu and Helsinki"
+date: 2024-02-02
+description: "Europe 2023 part 2."
+draft: false
+---
+
 Okay! It took me way too long to get around to this, but I need to talk about the second half of my Europe trip this winter.
 
 Near the end of December my family few into Denmark from the States and we headed to Finland together for the holidays after a few days of touring some of the major sites in Copenhagen that they hadn't seen yet.

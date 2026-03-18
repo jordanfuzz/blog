@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const recent = allPosts
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 5);
+---
+
+<BaseLayout title="Jordan's Blog" description="Personal posts about life, travel, games, and projects.">
+  <div class="intro">
+    <p>Hi, I'm Jordan. I write about whatever I'm thinking about — games, travel, projects, and life.</p>
+  </div>
+
+  <h2 class="page-title">Recent Posts</h2>
+
+  {recent.map(post => <PostCard post={post} />)}
+
+  <p class="see-all"><a href="/archive">See all posts →</a></p>
+</BaseLayout>

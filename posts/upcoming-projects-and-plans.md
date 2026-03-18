@@ -1,3 +1,10 @@
+---
+title: "Upcoming Projects and Plans"
+date: 2024-02-14
+description: null
+draft: false
+---
+
 I have a lot of things coming up and just wanted to give a glimpse into my roadmap for how I plan to spend my time. I struggle with consistency, so I imagine the order here won't stay super strict.
 
 ## Games
