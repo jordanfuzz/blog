@@ -1,19 +1,19 @@
 {
-  "name": "blog-site",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "check": "astro check"
-  },
-  "dependencies": {
-    "@astrojs/check": "^0.9.8",
-    "@astrojs/rss": "^4.0.0",
-    "astro": "^5.0.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.9.3"
-  }
+    "name": "blog-site",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "check": "astro check"
+    },
+    "dependencies": {
+        "@astrojs/check": "^0.9.8",
+        "@astrojs/rss": "^4.0.0",
+        "astro": "^5.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
 }

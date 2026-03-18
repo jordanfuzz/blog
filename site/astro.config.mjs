@@ -1,7 +1,7 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://PLACEHOLDER.com', // update before deploying
-  output: 'static',
-  build: { format: 'directory' },
-});
+    site: 'https://jordan.cooperplanet.com', // update before deploying
+    output: 'static',
+    build: { format: 'directory' },
+})
