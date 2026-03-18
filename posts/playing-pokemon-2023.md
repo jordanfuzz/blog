@@ -1,6 +1,6 @@
 ---
 title: "Playing Pokémon in 2023"
-date: 2023-11-02
+date: "2023-11-02"
 description: null
 photo: thumbnails/three-pockets-thumb.jpg
 draft: false

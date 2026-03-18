@@ -1,6 +1,6 @@
 ---
 title: "2024 Recap"
-date: 2025-01-02
+date: "2025-01-02"
 description: "Looking back over the year."
 photo: thumbnails/eclipse-thumb.jpg
 draft: false

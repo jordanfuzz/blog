@@ -5,7 +5,7 @@ import type { APIContext } from 'astro'
 export async function GET(context: APIContext) {
     const posts = await getCollection('posts', ({ data }) => !data.draft)
     const sorted = posts.sort(
-        (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+        (a, b) => b.data.date.localeCompare(a.data.date),
     )
     return rss({
         title: "Jordan's Blog",
@@ -13,7 +13,7 @@ export async function GET(context: APIContext) {
         site: context.site!,
         items: sorted.map((post) => ({
             title: post.data.title,
-            pubDate: post.data.date,
+            pubDate: new Date(post.data.date + 'T00:00:00'),
             description: post.data.description ?? undefined,
             link: `/posts/${post.id}/`,
         })),

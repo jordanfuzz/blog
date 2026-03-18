@@ -4,16 +4,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
-const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const sorted = allPosts.sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const byYear = sorted.reduce<Record<number, typeof sorted>>((acc, post) => {
-  const year = post.data.date.getFullYear();
+  const year = post.data.date.slice(0, 4);
   if (!acc[year]) acc[year] = [];
   acc[year].push(post);
   return acc;
 }, {});
 
-const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
 ---
 
 <BaseLayout title="Archive — Jordan's Blog" description="All posts, sorted by year.">
