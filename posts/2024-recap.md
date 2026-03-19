@@ -75,7 +75,7 @@ My biggest takeaway from attending this year is _going to board game conventions
 
 I looked, and I actually don't have any decent photos of PAX, other than things that I bought, so take a look at my negg!
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/cool-negg.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/cool-negg.jpg)
 
 > I bought a [cool negg](https://www.grundos.cafe/winter/neggery/)!
 
@@ -83,13 +83,13 @@ I have another post coming soon about my trading card collection, and I'll share
 
 **OH! I got StreetPass hits while I was there! You can't overstate the hype!**
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/streetpass.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/streetpass.jpg)
 
 ## Christmas
 
 And last, but never, ever least: **Christmas!** Winter coziness is my jam, and this holiday really quenched my winter thirst. Sofia was here for Christmas, but unfortunately Laurel was not. She went home to China to see family as well.
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/christmas-tree-2024.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/christmas-tree-2024.jpg)
 
 > Yeah, maybe I'll post our Christmas tree photo every year, who cares?
 
@@ -97,13 +97,13 @@ It was nice being back in Utah with family and the mountains. We saw the Nutcrac
 
 But! Check this out, my parents got me a copy of Nintendo Power Magazine Vol 173, _with the Eon Ticket!_
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/eon-ticket.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/eon-ticket.jpg)
 
 > Eon Ticket card in the Nintendo Power Magazine
 
 For context, the Eon Ticket was a special distribution that allowed you to scan in the card with the e-Reader to be able to catch Latios and Latias in your Ruby and Sapphire game! This magazine was in excellent condition and had the ticket untouched. In a few days I'm going to record pulling this out and using it. 😎
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/im-not-wearing-pants.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/im-not-wearing-pants.jpg)
 
 > ... what?
 

@@ -45,7 +45,7 @@ It sounds like a lot, and is definitely going to be a long and difficult process
 
 The first few gens of this playthrough, I'm going to be playing on either my N64 for Stadium game exclusives, or my **Analogue Pocket** for all of the Game Boy games. I have been so pleased with my Pocket, it's been so delightful to play with, and makes streaming and recording _on official hardware_ a breeze.
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/three-pockets.jpeg)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/three-pockets.jpg)
 
 ## Going Forward
 
