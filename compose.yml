@@ -1,0 +1,14 @@
+networks:
+  default:
+    ipam:
+      config:
+        - subnet: 10.42.8.0/24
+
+services:
+  nginx:
+    build: .
+    networks:
+      default:
+        ipv4_address: 10.42.8.20
+    command: /bin/sh -c "nginx -g 'daemon off;'"
+    restart: always
