@@ -51,11 +51,11 @@ And now, the most important update of the year...
 
 This has been a dream ever since I was a kid. Fishing was my jam, and this is my first 99 ever in OSRS. And not only that, but I got both fishing pets, the fish sack, and the golden tench! Look how fashionable I am!
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/fishing-show-off-1.png)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/fishing-show-off-1.jpg)
 
 I know exactly 2 people will ever read this post, and of those two people, 0 of them will care about this achievement, but this felt great. ❤️
 
-![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/fishing-show-off-2.png)
+![Image](https://raw.githubusercontent.com/jordanfuzz/blog/master/photos/fishing-show-off-2.jpg)
 
 > I was prepared for this. I had my fishing mug.
 
