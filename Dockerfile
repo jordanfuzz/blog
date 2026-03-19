@@ -7,6 +7,7 @@ RUN npm --prefix site ci
 
 COPY posts/ ./posts/
 COPY site/ ./site/
+COPY photos/ ./site/public/photos/
 
 RUN npm --prefix site run build
 
