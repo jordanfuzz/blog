@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Projects and Plans"
 date: "2024-02-14"
-description: null
+description: "Final Fantasy, tech projects, and more."
 photo: thumbnails/sephiroths-greatest-crime-thumb.png
 draft: false
 ---

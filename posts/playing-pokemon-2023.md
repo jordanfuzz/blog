@@ -1,7 +1,7 @@
 ---
 title: "Playing Pokémon in 2023"
 date: "2023-11-02"
-description: null
+description: "Just me documenting the weird ongoing relationship I have with the Pokemon franchise, and also sharing a bit of an app I made to record that journey."
 photo: thumbnails/three-pockets-thumb.jpg
 draft: false
 ---

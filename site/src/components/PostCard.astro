@@ -38,6 +38,6 @@ const formatted = new Date(year, month - 1, day).toLocaleDateString('en-US', {
       <h2>{post.data.title}</h2>
       <time datetime={post.data.date}>{formatted}</time>
     </div>
-    {post.data.description && <p>{post.data.description}</p>}
+    {post.data.summary && <p>{post.data.summary}</p>}
   </div>
 </a>

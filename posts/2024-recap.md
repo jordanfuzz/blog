@@ -1,7 +1,8 @@
 ---
 title: "2024 Recap"
 date: "2025-01-02"
-description: "Looking back over the year."
+description: "A personal 2024 year-in-review covering a solar eclipse trip, emergency surgery, a job loss and new job, hitting level 99 fishing in Old School RuneScape, PAX Unplugged, and Christmas highlights."
+summary: "Looking back over the year."
 photo: thumbnails/eclipse-thumb.jpg
 draft: false
 ---

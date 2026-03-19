@@ -1,22 +1,34 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import PostCard from '../components/PostCard.astro'
 
-const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const allPosts = await getCollection('posts', ({ data }) => !data.draft)
 const recent = allPosts
-  .sort((a, b) => b.data.date.localeCompare(a.data.date))
-  .slice(0, 5);
+    .sort((a, b) => b.data.date.localeCompare(a.data.date))
+    .slice(0, 5)
 ---
 
-<BaseLayout title="Jordan's Blog" description="Personal posts about life, travel, games, and projects.">
-  <div class="intro">
-    <p>Hi, I'm Jordan. I write about whatever I'm thinking about — games, travel, projects, and life.</p>
-  </div>
+<BaseLayout
+    title="Ah, the Blog of Jordan"
+    description="Personal posts about tech, games, and projects."
+>
+    <div class="intro">
+        <p>
+            Hello. I post infrequently, but more often than on social media. If
+            you've stumbled here from my <a
+                href="https://gloogo.io/"
+                target="_blank">other site</a
+            >, you won't find anything new here.
+            <br />
+            <br />
+            Glad you could make it.
+        </p>
+    </div>
 
-  <h2 class="page-title">Recent Posts</h2>
+    <h2 class="page-title">Recent Posts</h2>
 
-  {recent.map(post => <PostCard post={post} />)}
+    {recent.map((post) => <PostCard post={post} />)}
 
-  <p class="see-all"><a href="/archive">See all posts →</a></p>
+    <p class="see-all"><a href="/archive">See all posts →</a></p>
 </BaseLayout>

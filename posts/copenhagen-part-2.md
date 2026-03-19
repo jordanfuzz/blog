@@ -1,7 +1,8 @@
 ---
 title: "Joensuu and Helsinki"
 date: "2024-02-02"
-description: "Europe 2023 part 2."
+summary: "Europe 2023 part 2."
+description: "The second part of my Europe trip. My family met us in Denmark and we spent Christmas in Finland."
 photo: thumbnails/joensuu-sign-thumb.jpg
 draft: false
 ---

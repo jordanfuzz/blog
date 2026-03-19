@@ -1,7 +1,8 @@
 ---
 title: "Copenhagen"
 date: "2023-12-13"
-description: "Part 1 of my 2023 Europe stay."
+summary: "Part 1 of my 2023 Europe stay."
+description: "Details of my trip to Denmark where my wife was staying this year."
 photo: thumbnails/copenhagen-bookstore-thumb.jpg
 draft: false
 ---

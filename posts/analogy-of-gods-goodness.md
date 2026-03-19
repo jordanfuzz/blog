@@ -1,8 +1,8 @@
 ---
 title: "An Analogy of God's Goodness"
 date: "2024-07-17"
-description: null
 photo: thumbnails/melonheart-thumb.png
+description: "A brief comment on our tendency as humans to be short-sighted and how that can often lead us to think of God as cruel or uncaring."
 draft: false
 ---
 

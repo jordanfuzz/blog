@@ -1,7 +1,6 @@
 ---
 title: "Test Post"
 date: "2023-10-06"
-description: null
 draft: true
 ---
 
